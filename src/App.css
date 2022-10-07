@@ -1,0 +1,29 @@
+#AddBtn{
+color: white;
+background-color: green;
+padding: 10px;
+border: 0px solid black;
+text-transform: uppercase;
+margin: 30px;
+margin-left: 20px;
+font-size: 20px;
+}
+.headText{
+color: grey;
+text-transform: uppercase;
+width: 50%;
+margin: 20px;
+}
+.btnFlex{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.bodyText{
+    width:50%;
+    margin:20px;
+}
