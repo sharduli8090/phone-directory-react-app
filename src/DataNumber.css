@@ -1,0 +1,40 @@
+#AddBtn {
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border: 0px solid black;
+    text-transform: uppercase;
+    margin: 30px;
+    margin-left: 20px;
+    font-size: 16px;
+  }
+  .headText {
+    color: grey;
+    text-transform: uppercase;
+    width: 300px;
+    margin: 20px;
+  }
+  .textFlex {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+  }
+  .bodyText {
+    width: 300px;
+    margin: 20px;
+  }
+  #delBtn {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border: 0px solid black;
+    text-transform: uppercase;
+    margin: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
