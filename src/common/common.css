@@ -1,0 +1,11 @@
+.component-body-container{
+ margin: 20px;
+}
+
+.custom-btn{
+    font-size: 20px;
+    padding: 13px;
+    background-color: gray;
+    color: white;
+    border: 0px solid black;
+}
