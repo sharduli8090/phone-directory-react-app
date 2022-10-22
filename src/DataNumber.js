@@ -13,34 +13,10 @@ let subscribers = [
 ]
 
 const DataNumber = function () {
-    return (
-        <>
-            <button id="AddBtn">Add</button>
-            <div className="textFlex">
-                <div className='headText'>
-                    Name
-                </div>
-                <div className='headText'>Phone</div>
 
-            </div>
-            {
-            subscribers.map(sub => {
-                return <div key={
-                        sub.id
-                    }
-                    className="textFlex">
-                    <span className='bodyText'>
-                        {
-                        sub.name
-                    }</span>
-                    <span className='bodyText'>
-                        {
-                        sub.phone
-                    }</span>
-                    <button id="delBtn">Delete</button>
-                </div>
-        })
-        } </>
+
+    return (
+        <></>
     )
 }
 
